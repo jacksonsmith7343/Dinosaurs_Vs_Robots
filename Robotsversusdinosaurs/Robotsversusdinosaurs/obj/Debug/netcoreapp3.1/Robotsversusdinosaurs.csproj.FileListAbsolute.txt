@@ -1,0 +1,13 @@
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\bin\Debug\netcoreapp3.1\Robotsversusdinosaurs.exe
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\bin\Debug\netcoreapp3.1\Robotsversusdinosaurs.deps.json
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\bin\Debug\netcoreapp3.1\Robotsversusdinosaurs.runtimeconfig.json
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\bin\Debug\netcoreapp3.1\Robotsversusdinosaurs.runtimeconfig.dev.json
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\bin\Debug\netcoreapp3.1\Robotsversusdinosaurs.dll
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\bin\Debug\netcoreapp3.1\Robotsversusdinosaurs.pdb
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.csprojAssemblyReference.cache
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.AssemblyInfoInputs.cache
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.AssemblyInfo.cs
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.dll
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.pdb
+C:\Users\smith\source\repos\Robotsversusdinosaurs\Robotsversusdinosaurs\obj\Debug\netcoreapp3.1\Robotsversusdinosaurs.genruntimeconfig.cache

@@ -6,10 +6,16 @@ namespace Robotsversusdinosaurs
     {
         static void Main(string[] args)
         {
-            Program myprogram = new Program();
+            Battlefield battlefield = new Battlefield();
 
+            battlefield.battleRounds();
+         
         }
-         public void 
-
+        
     }
 }
+//there is a battlefield 
+//fleets containing robots and herds containing dinosaurs in the battlefield 
+//robots and dinosaurs attack each other
+//power levels and health decrease unitl death
+//when one side dies the other side wins
